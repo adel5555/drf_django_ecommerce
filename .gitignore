@@ -1,6 +1,6 @@
 newv/
 .pytest_cache
-**__pychache__/
+**__pycache__/
 db.sqlite3
 .env
 .vscode
