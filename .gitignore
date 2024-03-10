@@ -4,3 +4,4 @@ newv/
 db.sqlite3
 .env
 .vscode
+schema.yml
